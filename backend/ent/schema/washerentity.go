@@ -16,3 +16,4 @@ func (WasherEntity) Fields() []ent.Field {
 func (WasherEntity) Edges() []ent.Edge {
 	return nil
 }
+//B6103866
